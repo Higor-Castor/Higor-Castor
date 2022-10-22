@@ -18,6 +18,7 @@
 ##
 
 <div style="display: inline_block" ><br>
+<a  href="https://www.linkedin.com/in/higor-castro-97827a21b/"> <img align="center"  height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"  /> </a>
 <a href="https://www.linkedin.com/in/higor-castro-97827a21b/">
-<img align="center"  height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"  /> 
+
 </div>
