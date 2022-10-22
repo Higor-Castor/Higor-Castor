@@ -18,7 +18,15 @@
 ##
 
 <div style="display: inline_block" ><br>
-<a  href="https://www.linkedin.com/in/higor-castro-97827a21b/"> <img align="center"  height="40px" width="50px" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original-wordmark.svg"  /> </a>
-<a href="https://www.linkedin.com/in/higor-castro-97827a21b/">
+ <a href="https://www.linkedin.com/in/higor-castro-97827a21b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+ <a href = "mailto:higorcastro142@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+ 
+ 
 
+ 
+  ![Snake animation](https://github.com/ubiratan-motta/ubiratan-motta/blob/output/github-contribution-grid-snake.svg)
+  
+  
 </div>
+
+##
